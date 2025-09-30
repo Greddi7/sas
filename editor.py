@@ -31,4 +31,4 @@ root.config(menu=menu_bar)
 text_area = tk.Text(root)
 text_area.pack(fill=tk.BOTH, expand=1)
 
-root.mainloop()
+root.mainloop() //dsgfdggfdsfds
